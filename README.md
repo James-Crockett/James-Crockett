@@ -3,5 +3,4 @@
 
 ## 👋 Hello, I'm Nitheesh
 An AI/ML Engineer based in Baltimore, MD. I focus on building production-oriented AI/ML systems.
-I mainly use Python but I also use C++ for some of my personal projects.
-If you like my work, feel free to reach out at [ngnanas1@umbc.edu](url)
+If you like my work, feel free to reach out at [ngnanas1@umbc.edu](mailto:ngnanas1@umbc.edu)
